@@ -1,0 +1,16 @@
+{
+  "name": "nice-blog-api",
+  "version": "1.0.0",
+  "description": "Nice blog API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syauqeesy/nice-blog-api.git"
+  },
+  "author": "Ahmad Syauqi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syauqeesy/nice-blog-api/issues"
+  },
+  "homepage": "https://github.com/syauqeesy/nice-blog-api#readme"
+}
